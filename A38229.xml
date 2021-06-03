@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four special orders and a declaration of the Commons assembled in Parliament viz. I. An order for limitation of the committee at Habberdashers-hall, II. An order for composition of delinquents estates at Goldsmiths-hall, III. An order for disbanding of forces in Radnorshire, IV. A declaration concerning accomptants, V. An order that no persons who have been enemies to the Parliament be admitted to their chambers at Sergeants Inns, or Inns of Court or Chancery or to live in any of the said societies.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38229</idno><idno type="EEBO-CITATION">9818523</idno>
+  <idno type="VID">44165</idno>
+  <idno type="EEBO-PROQUEST">2248507768</idno>
+  
+            <idno type="STC">Wing E2577A</idno>
+            <idno type="STC">ESTC R27343</idno>
+            <idno type="OCLC">09818523</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44165)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1356:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four special orders and a declaration of the Commons assembled in Parliament viz. I. An order for limitation of the committee at Habberdashers-hall, II. An order for composition of delinquents estates at Goldsmiths-hall, III. An order for disbanding of forces in Radnorshire, IV. A declaration concerning accomptants, V. An order that no persons who have been enemies to the Parliament be admitted to their chambers at Sergeants Inns, or Inns of Court or Chancery or to live in any of the said societies.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Commons assembled in Parliament that these orders and declaration be forthwith printed and published. H. Elsynge, Cler. Parl. D.C."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44165:1"/>
+            <pb facs="tcp:44165:1"/>
+            <p>Four special ORDERS And a Declaration OF THE COMMONS Assembled in Parliament, <hi>VIZ.</hi>
+            </p>
+            <list>
+               <item>I. An Order for Limitation of the Committee at <hi>Habberdashers</hi>-Hall.</item>
+               <item>II. An Order for Composition of Delinquents Estates at <hi>Goldsmiths</hi>-Hall.</item>
+               <item>III. An Order for Disbanding of Forces in <hi>Rad<g ref="char:EOLhyphen"/>norshire.</hi>
+               </item>
+               <item>IV. A Declaration concerning Accomp<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ants.</item>
+               <item>V. An Order that no persons who have been Ene<g ref="char:EOLhyphen"/>mies to the Parliament, be admitted to their Chambers at Sergeants Inns, or Inns of Court, or Chancery, or to live in any of the said <hi>Societies.</hi>
+               </item>
+            </list>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>ORdered by the Commons assembled in Parliament, That these</hi> Orders <hi>and</hi> Declaration <hi>be forthwith Printed and Published.</hi> H: Elsynge, Cler. Parl. D. C.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of COMMONS. <hi>October</hi> 30. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="order">
+            <pb facs="tcp:44165:2"/>
+            <pb n="3" facs="tcp:44165:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 25 August, 1646.</date>
+               </dateline>
+            </opener>
+            <head>An Order of the Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, For Limitation of the Committee for Fifth and Twentieth part at <hi>Haberdashers-Hall.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Rdered by the Com<g ref="char:EOLhyphen"/>mons assembled in Par<g ref="char:EOLhyphen"/>liament, that the power of the committee at <hi>Hab<g ref="char:EOLhyphen"/>berdasher-Hall</hi> shal not ex<g ref="char:EOLhyphen"/>tend from henceforth to any person or persons whatsoever for Assessing them for any Fifth part, or for any Fifth or Twentieth part, save only unto such person or persons as are or have been Delinquents to the Parliament, and unto such per<g ref="char:EOLhyphen"/>son and persons as have not volun<g ref="char:EOLhyphen"/>tarily contributed in any place what<g ref="char:EOLhyphen"/>soever to the Parliament.</p>
+         </div>
+         <div type="order">
+            <pb n="4" facs="tcp:44165:3"/>
+            <head>Die Jovis, 3 Septemb. 1646.</head>
+            <p>ORdered by the Commons assem<g ref="char:EOLhyphen"/>bled in <hi>Parliament,</hi> that it be re<g ref="char:EOLhyphen"/>ferred to the Committee at <hi>Goldsmiths</hi> Hall to compound with all such De<g ref="char:EOLhyphen"/>linquents as have come in upon Mercy sithence the first day of <hi>May</hi> last, according to the highest rate in the <hi>Propositions:</hi> And that the said Committee do upon their Report state the nature of the Delinquen<g ref="char:EOLhyphen"/>cies, and the time of the coming in of all such persons with whom they shall make any such Compositions; And that the time given to all such Delinquents as are comprised with<g ref="char:EOLhyphen"/>in this Order to prosecute their Compositions in with effect, shall be until the third day of <hi>October</hi> next; and in default of such prosecuting of their compositions within that time, that then their whole Estates shall be forfeited and sold: And that this Order be forthwith printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+         </div>
+         <div type="Resolution">
+            <pb n="5" facs="tcp:44165:3"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, 7 Octob. 1646.</date>
+               </dateline>
+            </opener>
+            <head>Upon a Report from the Committee of both Kingdoms it is Resolved, &amp;c.</head>
+            <p>THat this House doth agree with the Committee of both King<g ref="char:EOLhyphen"/>doms, that the Forces in <hi>Radnorshire</hi> under Colonel <hi>Marten</hi> be forthwith Disbanded; And that some course be forthwith taken to put the county of <hi>Radnor</hi> into a posture of Defence, to avoid tumults that may happen amongst them; And that it be refer<g ref="char:EOLhyphen"/>red to the Members of both Houses that are of the Committee of both Kingdoms, to consider of a way for putting the said County into a po<g ref="char:EOLhyphen"/>sture of Defence, and to Report the same to the House.</p>
+         </div>
+         <div type="declaration">
+            <pb n="6" facs="tcp:44165:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi, 10. Octobr. 1646.</date>
+               </dateline>
+            </opener>
+            <head>A Declaration of the Commons in Parlia<g ref="char:EOLhyphen"/>ment concerning Accomptants.</head>
+            <opener>Resolved, &amp;c.</opener>
+            <p>THat this House doth Declare, That all such Accomptants as have received, or shall receive any Moneys, Goods, Free-quarter, or other thing for which they are ac<g ref="char:EOLhyphen"/>comptable to the Commonwealth, shall be lyable upon the alowance of their respective Accompts, to be further charged with any surplusage for and during the space of two yeers from and after such alowance for their Accompts, and no longer.</p>
+         </div>
+         <div type="order">
+            <pb n="7" facs="tcp:44165:4"/>
+            <head>Die Veneris, 23 Octob. 1646.</head>
+            <p>ORdered by the Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, That the Iudges and Sergeants of the seve<g ref="char:EOLhyphen"/>ral Sergeants Inns, The Ben<g ref="char:EOLhyphen"/>chers of the several Inns of Court, and the Members of this House of the said several Inns of Court re<g ref="char:EOLhyphen"/>spectively do take care, That no persons who have adhered to the Enemy against the Parliament, be permitted to come again into any of their Chambers, or be admitted into any of the Sergeants Inns, Inns of Court, or Inns of Chancery, or to live in any of the said Socie<g ref="char:EOLhyphen"/>ties.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
